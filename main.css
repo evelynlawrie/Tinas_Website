@@ -1,0 +1,45 @@
+h1 {
+  color: cyan;
+  font-family: 'Fascinate', cursive;
+}
+
+h2 {
+  color: cyan;
+  font-family: 'Fascinate', cursive;
+}
+
+body {
+  background-color: pink;
+}
+
+button {
+  color: lightblue;
+  font-family: 'Fascinate', cursive;
+  background-color: black;
+
+}
+
+#doge {
+  height: 200px;
+  width: 200px;
+}
+
+#world {
+  height: 200px;
+  width: 200px;
+}
+
+#agario {
+  height: 200px;
+  width: 200px;
+}
+
+#slitherio {
+  height: 200px;
+  width: 200px;
+}
+
+#sinuous {
+  height: 200px;
+  width: 200px;
+}
